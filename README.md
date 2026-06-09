@@ -1,6 +1,6 @@
-# Netflix Content Trends Analysis for Strategic Recommendations
+ Netflix Content Trends Analysis for Strategic Recommendations
 
-##Project Overview
+Project Overview
 
 Netflix has become one of the world's leading streaming platforms, continuously expanding its catalog through original productions and licensed content. With increasing competition from platforms such as Amazon Prime Video, Disney+, and regional OTT services, understanding content trends is essential for maintaining a competitive advantage.
 
@@ -8,7 +8,7 @@ This project focuses on **Content Trends Analysis for Strategic Recommendations*
 
 ---
 
-##Problem Statement
+Problem Statement
 
 The streaming industry is highly competitive, requiring platforms to make data-driven decisions about content investments. Netflix's extensive catalog presents an opportunity to analyze historical trends and identify key growth areas.
 
@@ -21,31 +21,31 @@ The primary objective of this project is to:
 
 ---
 
-##Project Objectives
+Project Objectives
 
-### 1️⃣ Content Distribution Analysis
+1️⃣ Content Distribution Analysis
 - Examine the proportion of Movies and TV Shows.
 - Identify trends in content additions over time.
 - Analyze Netflix's content growth trajectory.
 
-### 2️⃣ Genre Analysis
+2️⃣ Genre Analysis
 - Identify the most common genres on Netflix.
 - Evaluate changes in genre popularity over the years.
 - Discover emerging and declining content categories.
 
-### 3️⃣ Country Contribution Analysis
+3️⃣ Country Contribution Analysis
 - Determine the countries contributing the most content.
 - Assess Netflix's global content diversity.
 - Identify regions with expansion opportunities.
 
-### 4️⃣ Strategic Recommendations
+4️⃣ Strategic Recommendations
 - Provide data-driven insights for content acquisition.
 - Recommend potential areas for content investment.
 - Support decision-making for global market expansion.
 
 ---
 
-## 🔍 Research Questions
+Research Questions
 
 This project seeks to answer the following questions:
 
@@ -58,31 +58,31 @@ This project seeks to answer the following questions:
 
 ---
 
-##Significance of the Study
+Significance of the Study
 
 Understanding Netflix's content evolution provides valuable insights into audience preferences and market trends.
 
 The findings of this study can help:
 
-### Enhance Content Strategy
+Enhance Content Strategy
 - Balance investments between Movies and TV Shows.
 - Align content offerings with audience demand.
 
-### Support Global Expansion
+Support Global Expansion
 - Identify high-performing content-producing regions.
 - Discover underrepresented markets for future growth.
 
-### Enable Data-Driven Decisions
+Enable Data-Driven Decisions
 - Improve content acquisition strategies.
 - Guide investments in original productions.
 
-### Identify Emerging Trends
+Identify Emerging Trends
 - Track changing viewer interests.
 - Anticipate future content demands.
 
 ---
 
-## Dataset Information
+Dataset Information
 
 The dataset contains information about Netflix titles, including:
 
@@ -103,7 +103,7 @@ The dataset contains information about Netflix titles, including:
 
 ---
 
-## Key Analyses Performed
+Key Analyses Performed
 
 - Movies vs TV Shows Distribution
 - Content Growth Over Time
@@ -115,7 +115,7 @@ The dataset contains information about Netflix titles, including:
 
 ---
 
-## Expected Outcomes
+Expected Outcomes
 
 - Identification of dominant content types.
 - Discovery of the most popular genres.
@@ -125,6 +125,6 @@ The dataset contains information about Netflix titles, including:
 
 ---
 
-## Conclusion
+Conclusion
 
 This project transforms Netflix's content catalog into meaningful business insights by analyzing content growth patterns, genre trends, and global contributions. The findings can support strategic planning, improve content diversification, and help identify future opportunities in the evolving streaming industry.

@@ -1,4 +1,4 @@
- Netflix Content Trends Analysis for Strategic Recommendations
+ ## Netflix Content Trends Analysis for Strategic Recommendations
 
 Project Overview
 
